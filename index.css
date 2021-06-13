@@ -360,21 +360,21 @@ position:relative;
     }
   }
   
-  @media (max-width: 480px){
+@media (max-width: 480px){
   .work-left {
       padding: 1em 3em 0 0;
   }}
-  @media (max-width: 991px){
+@media (max-width: 991px){
   .work-left {
       padding: 2em 4em 0 0;
       float: left;
       width: 50%;
   }}
-  @media (max-width: 480px){
+@media (max-width: 480px){
   .work-info h5 {
       font-size: 1em;
   }}
-  @media (max-width: 991px){
+@media (max-width: 991px){
   .work-info h5 {
       font-size: 1.2em;
       padding: 0 1em;
